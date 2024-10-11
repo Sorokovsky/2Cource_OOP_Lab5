@@ -1,0 +1,15 @@
+/Users/andrijsorokovskij/Documents/2 cource/lab 4/Task 1/bin/Debug/net8.0/Task 1
+/Users/andrijsorokovskij/Documents/2 cource/lab 4/Task 1/bin/Debug/net8.0/Task 1.deps.json
+/Users/andrijsorokovskij/Documents/2 cource/lab 4/Task 1/bin/Debug/net8.0/Task 1.runtimeconfig.json
+/Users/andrijsorokovskij/Documents/2 cource/lab 4/Task 1/bin/Debug/net8.0/Task 1.dll
+/Users/andrijsorokovskij/Documents/2 cource/lab 4/Task 1/bin/Debug/net8.0/Task 1.pdb
+/Users/andrijsorokovskij/Documents/2 cource/lab 4/Task 1/obj/Debug/net8.0/Task 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrijsorokovskij/Documents/2 cource/lab 4/Task 1/obj/Debug/net8.0/Task 1.AssemblyInfoInputs.cache
+/Users/andrijsorokovskij/Documents/2 cource/lab 4/Task 1/obj/Debug/net8.0/Task 1.AssemblyInfo.cs
+/Users/andrijsorokovskij/Documents/2 cource/lab 4/Task 1/obj/Debug/net8.0/Task 1.csproj.CoreCompileInputs.cache
+/Users/andrijsorokovskij/Documents/2 cource/lab 4/Task 1/obj/Debug/net8.0/Task 1.sourcelink.json
+/Users/andrijsorokovskij/Documents/2 cource/lab 4/Task 1/obj/Debug/net8.0/Task 1.dll
+/Users/andrijsorokovskij/Documents/2 cource/lab 4/Task 1/obj/Debug/net8.0/refint/Task 1.dll
+/Users/andrijsorokovskij/Documents/2 cource/lab 4/Task 1/obj/Debug/net8.0/Task 1.pdb
+/Users/andrijsorokovskij/Documents/2 cource/lab 4/Task 1/obj/Debug/net8.0/Task 1.genruntimeconfig.cache
+/Users/andrijsorokovskij/Documents/2 cource/lab 4/Task 1/obj/Debug/net8.0/ref/Task 1.dll

@@ -13,3 +13,18 @@
 /Users/andrijsorokovskij/Documents/2 cource/lab 4/Task 1/obj/Debug/net8.0/Task 1.pdb
 /Users/andrijsorokovskij/Documents/2 cource/lab 4/Task 1/obj/Debug/net8.0/Task 1.genruntimeconfig.cache
 /Users/andrijsorokovskij/Documents/2 cource/lab 4/Task 1/obj/Debug/net8.0/ref/Task 1.dll
+D:\progects\OOP\2_course\lab 5\2Cource_OOP_Lab5\Task 1\bin\Debug\net8.0\Task 1.exe
+D:\progects\OOP\2_course\lab 5\2Cource_OOP_Lab5\Task 1\bin\Debug\net8.0\Task 1.deps.json
+D:\progects\OOP\2_course\lab 5\2Cource_OOP_Lab5\Task 1\bin\Debug\net8.0\Task 1.runtimeconfig.json
+D:\progects\OOP\2_course\lab 5\2Cource_OOP_Lab5\Task 1\bin\Debug\net8.0\Task 1.dll
+D:\progects\OOP\2_course\lab 5\2Cource_OOP_Lab5\Task 1\bin\Debug\net8.0\Task 1.pdb
+D:\progects\OOP\2_course\lab 5\2Cource_OOP_Lab5\Task 1\obj\Debug\net8.0\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\progects\OOP\2_course\lab 5\2Cource_OOP_Lab5\Task 1\obj\Debug\net8.0\Task 1.AssemblyInfoInputs.cache
+D:\progects\OOP\2_course\lab 5\2Cource_OOP_Lab5\Task 1\obj\Debug\net8.0\Task 1.AssemblyInfo.cs
+D:\progects\OOP\2_course\lab 5\2Cource_OOP_Lab5\Task 1\obj\Debug\net8.0\Task 1.csproj.CoreCompileInputs.cache
+D:\progects\OOP\2_course\lab 5\2Cource_OOP_Lab5\Task 1\obj\Debug\net8.0\Task 1.sourcelink.json
+D:\progects\OOP\2_course\lab 5\2Cource_OOP_Lab5\Task 1\obj\Debug\net8.0\Task 1.dll
+D:\progects\OOP\2_course\lab 5\2Cource_OOP_Lab5\Task 1\obj\Debug\net8.0\refint\Task 1.dll
+D:\progects\OOP\2_course\lab 5\2Cource_OOP_Lab5\Task 1\obj\Debug\net8.0\Task 1.pdb
+D:\progects\OOP\2_course\lab 5\2Cource_OOP_Lab5\Task 1\obj\Debug\net8.0\Task 1.genruntimeconfig.cache
+D:\progects\OOP\2_course\lab 5\2Cource_OOP_Lab5\Task 1\obj\Debug\net8.0\ref\Task 1.dll

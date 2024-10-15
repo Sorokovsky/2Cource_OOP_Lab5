@@ -4,6 +4,9 @@
     {
         private int _number;
 
+        public delegate void InvalidNumber(int number, int setted);
+        public static event InvalidNumber OnInvalidSubjectIndex;
+        public static event InvalidNumber OnInvalidStudentIndex;
         public Student Student { get; set; }
         public Subject Subject { get; set; }
         public int Number
@@ -46,6 +49,7 @@
             Console.Write(">> "); int subject = Convert.ToInt32(Console.ReadLine());
             if(subject < 0)
             {
+                OnInvalidSubjectIndex.Invoke(subject, 0);
                 subject = 0;
             }
             if(subject >= subjects.Count)
@@ -62,6 +66,7 @@
             Console.Write(">> "); int student = Convert.ToInt32(Console.ReadLine());
             if (student < 0)
             {
+                OnInvalidStudentIndex.Invoke(student, 0);
                 student = 0;
             }
             if (student >= students.Count)
@@ -72,7 +77,6 @@
             Console.Write("Введіть оцінку: "); int number = Convert.ToInt32(Console.ReadLine());
             return new Mark(students.ElementAt(student), subjects.ElementAt(subject), number);
         }
-
 
         public override string ToString()
         {

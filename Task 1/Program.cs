@@ -11,6 +11,8 @@ public static class Program
         Operation doing;
         while(true)
         {
+            Mark.OnInvalidSubjectIndex += InvalidSubjectIndex;
+            Mark.OnInvalidStudentIndex += InvalidStudentIndex;
             try
             {
                 int operation = ChooseOperation();
@@ -202,5 +204,15 @@ public static class Program
     {
         using BinaryWriter writer = new(File.Open(FILE_PATH, FileMode.Create));
         WriteUniversity(writer);
+    }
+
+    private static void InvalidSubjectIndex(int subject, int setted)
+    {
+        Console.WriteLine($"{subject} is invalid index of subject, now is = {setted}");
+    }
+
+    private static void InvalidStudentIndex(int student, int setted)
+    {
+        Console.WriteLine($"{student} is invalid index of student, now is = {setted}");
     }
 }
